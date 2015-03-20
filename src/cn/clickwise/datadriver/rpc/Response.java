@@ -3,7 +3,7 @@ package cn.clickwise.datadriver.rpc;
 import java.io.Serializable;
 
 /**
- * the output of executing a command in remote machine
+ * &nbsp; &nbsp;&nbsp; &nbsp; the output of executing a command in remote machine
  * @author lq
  */
 

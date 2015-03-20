@@ -1,5 +1,4 @@
 package cn.clickwise.datadriver.rpc.implement;
-
 import cn.clickwise.datadriver.rpc.Response;
 
 public class RCopyResponse extends Response{
